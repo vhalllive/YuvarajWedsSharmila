@@ -2376,7 +2376,7 @@ textarea.w-select {
     margin-bottom: 0px;
     font-family: 'PT Serif', serif;
     color: #eb3c62;
-    font-size: 42px;
+    font-size: 28px;
     text-align: center;
 }
 
@@ -2555,7 +2555,7 @@ textarea.w-select {
     margin-top: 20px;
     font-family: 'PT Serif', serif;
     color: #022859;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 400;
     text-align: center;
 }
@@ -2720,7 +2720,7 @@ textarea.w-select {
 .live-section {
     display: block;
     overflow: visible;
-    height: 250vh;
+    height: 125vh;
     margin-right: auto;
     margin-left: auto;
     padding-top: 0px;
